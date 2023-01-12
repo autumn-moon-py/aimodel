@@ -1,5 +1,5 @@
 @echo off
 git add .
-git commit -m "new pt"
+git commit -m "new"
 git push
 pause
